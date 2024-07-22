@@ -1,7 +1,7 @@
 {
   "latestVersion": "3.9.5",
   "latestVersionCode": 11,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "url": "https://daalchini.s3.ap-south-1.amazonaws.com/dcprod/kiosk_apk/kiosk-app-debug.apk",
   "releaseNotes": [
     "- First evolution",
     "- Second evolution",
